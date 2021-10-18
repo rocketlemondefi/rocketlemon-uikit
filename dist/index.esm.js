@@ -2851,13 +2851,13 @@ var ResetCSS = createGlobalStyle(templateObject_1$K || (templateObject_1$K = __m
 var templateObject_1$K;
 
 var baseColors = {
-    failure: "#ED4B9E",
-    primary: "#aa8929",
-    primaryBright: "#aa8929",
-    primaryDark: "#aa8929",
-    secondary: "#7645D9",
-    success: "#31D0AA",
-    warning: "#FFB237",
+    failure: "#ffcc33",
+    primary: "#ffcc33",
+    primaryBright: "#ffcc33",
+    primaryDark: "#ffcc33",
+    secondary: "#ffcc33",
+    success: "#ffcc33",
+    warning: "#ffcc33",
 };
 var brandColors = {
     binance: "#F0B90B",
