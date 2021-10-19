@@ -2951,7 +2951,7 @@ var light$1 = (_a$2 = {},
     },
     _a$2);
 var dark$1 = (_b = {},
-    _b[PRIMARY] = __assign({}, light$1.secondary),
+    _b[PRIMARY] = __assign({}, light$1.primary),
     _b[SECONDARY] = __assign({}, light$1.secondary),
     _b[TERTIARY] = __assign(__assign({}, light$1.tertiary), { background: darkColors.tertiary, backgroundActive: darkColors.tertiary, backgroundHover: darkColors.tertiary, color: darkColors.primary }),
     _b[TEXT] = __assign(__assign({}, light$1.text), { backgroundHover: darkColors.tertiary }),
