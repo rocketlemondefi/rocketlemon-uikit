@@ -2917,7 +2917,7 @@ var light$1 = (_a$2 = {},
         borderColorHover: "currentColor",
         boxShadow: "none",
         boxShadowActive: "none",
-        color: lightColors.primary,
+        color: lightColors.secondary,
     },
     _a$2[DANGER] = {
         background: lightColors.failure,
