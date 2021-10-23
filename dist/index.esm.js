@@ -2270,7 +2270,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/rocketlemondefi",
+        href: "https://twitter.com/goosedefi",
     },
     {
         label: "Reddit",
