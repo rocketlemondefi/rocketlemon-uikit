@@ -2870,7 +2870,7 @@ var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { sec
     } });
 
 var light = {
-    background: lightColors.card,
+    background: lightColors.contrast,
 };
 var dark = {
     background: darkColors.card,
