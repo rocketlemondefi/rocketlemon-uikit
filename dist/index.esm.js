@@ -2212,20 +2212,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        items: [
-            {
-                label: "English",
-                href: "https://t.me/goosedefi",
-            },
-            {
-                label: "Announcements",
-                href: "https://t.me/goosefinanceann",
-            },
-            {
-                label: "Price Bot",
-                href: "https://t.me/BinanceRocketEGG",
-            },
-        ],
+        href: "https://t.me/rocketlemondefi",
     },
     {
         label: "Twitter",
