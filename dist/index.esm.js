@@ -2195,7 +2195,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/rocketlemondefi/",
+                href: "https://github.com/goosedefi/",
             },
             {
                 label: "Docs",
