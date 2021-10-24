@@ -2208,7 +2208,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/rocketlemondefi/",
+                href: "https://github.com/goosedefi/",
             },
             {
                 label: "Docs",
@@ -2283,7 +2283,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/rocketlemondefi",
+        href: "https://twitter.com/goosedefi",
     },
     {
         label: "Reddit",
