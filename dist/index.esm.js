@@ -2296,7 +2296,7 @@ var MenuEntry = styled.div(templateObject_3$6 || (templateObject_3$6 = __makeTem
     return (secondary ? "14px" : "16px");
 }, function (_a) {
     var secondary = _a.secondary, theme = _a.theme;
-    return (secondary ? theme.colors.background : "transparent");
+    return (secondary ? theme.colors.secondary : "transparent");
 }, function (_a) {
     var theme = _a.theme;
     return theme.colors.textSubtle;
