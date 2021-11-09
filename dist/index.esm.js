@@ -2201,10 +2201,10 @@ var links = [
                 label: "Docs",
                 href: "https://goosedefi.gitbook.io/goose-finance/",
             },
-            {
-                label: "Blog",
-                href: "https://goosefinance.medium.com/",
-            },
+            // {
+            //     label: "Blog",
+            //     href: "https://goosefinance.medium.com/",
+            // },
         ],
     },
 ];
@@ -2219,11 +2219,11 @@ var socials = [
         icon: "TwitterIcon",
         href: "https://twitter.com/rocketlemondefi",
     },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
-    },
+    // {
+    //     label: "Reddit",
+    //     icon: "RedditIcon",
+    //     href: "https://www.reddit.com/r/GooseFinanceofficial",
+    // },
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
