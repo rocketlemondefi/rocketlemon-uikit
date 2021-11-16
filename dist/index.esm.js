@@ -2106,11 +2106,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pancakeswap.finance",
+                href: "https://pancakeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x806AC0954b917493bEFCd693E07CFd4C69563AFe",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.pancakeswap.finance/#/pool",
+                href: "https://pancakeswap.finance/add/BNB/0x806AC0954b917493bEFCd693E07CFd4C69563AFe",
             },
         ],
     },
